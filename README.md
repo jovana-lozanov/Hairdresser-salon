@@ -1,6 +1,6 @@
 # Hairdresser-salon
 
-##Requirements !!!
+## Requirements !!!
 
 `NodeJS` version `20.1.0`
 
